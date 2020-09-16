@@ -1,0 +1,5 @@
+/home/toybrick/lisk_project/c_test_pro/2020_2_10_cplate/build_x86/CMakeFiles/lisence_plate_proceess.dir
+/home/toybrick/lisk_project/c_test_pro/2020_2_10_cplate/build_x86/CMakeFiles/rebuild_cache.dir
+/home/toybrick/lisk_project/c_test_pro/2020_2_10_cplate/build_x86/CMakeFiles/rknn_mobilenet.dir
+/home/toybrick/lisk_project/c_test_pro/2020_2_10_cplate/build_x86/CMakeFiles/edit_cache.dir
+/home/toybrick/lisk_project/c_test_pro/2020_2_10_cplate/build_x86/CMakeFiles/rknn_ssd.dir

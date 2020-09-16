@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=plateexample
+Comment=My Python Program
+Exec=sh /home/toybrick/test.sh
+#Icon=/home/pi/example.png
+Terminal=true
+MultipleArgs=false
+Type=Application
+Categories=Application;
+StartupNotify=true

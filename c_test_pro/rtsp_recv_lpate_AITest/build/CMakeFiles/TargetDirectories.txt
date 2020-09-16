@@ -1,0 +1,3 @@
+/home/toybrick/lisk_project/c_test_pro/rtsp_recv_lpate_AITest/build/CMakeFiles/rebuild_cache.dir
+/home/toybrick/lisk_project/c_test_pro/rtsp_recv_lpate_AITest/build/CMakeFiles/testRTSPClient.dir
+/home/toybrick/lisk_project/c_test_pro/rtsp_recv_lpate_AITest/build/CMakeFiles/edit_cache.dir

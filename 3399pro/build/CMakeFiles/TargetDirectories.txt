@@ -1,0 +1,3 @@
+/home/toybrick/lisk_project/test_ai3399pro/test_rtsp/build/CMakeFiles/rebuild_cache.dir
+/home/toybrick/lisk_project/test_ai3399pro/test_rtsp/build/CMakeFiles/testRTSPClient.dir
+/home/toybrick/lisk_project/test_ai3399pro/test_rtsp/build/CMakeFiles/edit_cache.dir
